@@ -1,0 +1,2 @@
+to test this program, you have to install blender software.
+then oprn script editor and paste the given code , that will show up a new tool called "matricx".
